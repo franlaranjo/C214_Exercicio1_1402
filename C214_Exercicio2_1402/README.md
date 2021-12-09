@@ -1,9 +1,5 @@
-# c214-lab
-C214L1
-
-
-
 # Engenharia de Software - LAB
+[![CI](https://github.com/franlaranjo/c214-lab/C214_Exercicio2_1402/actions/workflows/main.yml/badge.svg)](https://github.com/franlaranjo/c214-lab/C214_Exercicio2_1402/actions/workflows/main.yml)
 
 
 - [Sobre](#-sobre)
