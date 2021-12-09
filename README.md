@@ -1,10 +1,8 @@
 # Engenharia de Software - LAB
 [![CI](https://github.com/franlaranjo/C214_Exercicio1_1402/actions/workflows/main.yml/badge.svg)](https://github.com/franlaranjo/C214_Exercicio1_1402/actions/workflows/main.yml)
 
-
 - [Sobre](#-sobre)
 - [Como executar](#-como-executar)
-
 
 ## 💻 Sobre
 
@@ -24,5 +22,5 @@
 
 Para clonar o repositório em algum lugar na sua máquina, basta utilizar o comando abaixo:
 ```bash
-$ git clone https://github.com/franlaranjo/c214-lab.git
+$ git clone https://github.com/franlaranjo/C214_Exercicio1_1402.git
 ```
