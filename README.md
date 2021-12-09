@@ -1,5 +1,4 @@
 # Engenharia de Software - LAB
-[![CI](https://github.com/franlaranjo/C214_Exercicio1_1402/actions/workflows/main.yml/badge.svg)](https://github.com/franlaranjo/C214_Exercicio1_1402/actions/workflows/main.yml)
 
 - [Sobre](#-sobre)
 - [Como executar](#-como-executar)
@@ -14,8 +13,7 @@
     - Projeto com a linguagem/framework de sua preferencia;
     - Gerencia de dependências para instalar uma biblioteca de testes;
     - Testes unitários baseados em funções e um teste mock.
-    - Implementação de CI
-    - Design Pattern Criacional
+    
 ---
 
 ### Clonando repositório
